@@ -3,6 +3,8 @@ welcome to the class
 students
 
 principle
+pizza
+burger
 
 watchmen
 building
